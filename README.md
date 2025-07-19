@@ -203,7 +203,7 @@ npm run dev
   "password": "*************"
 }
 ```
-- **Respuesta:** Devuelve un token JWT si las credenciales son válidas.
+- **Respuesta:** Devuelve un Bearer token si las credenciales son válidas.
 
 ## Estructura del proyecto
 
